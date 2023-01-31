@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prajeet
-- 👀 I’m interested in Web developement, and I specialize in HTML, CSS, JS, TS, React, and Node
+- 👀 I’m interested in Web developement, and I specialize in HTML, CSS, JS, TS, React, and Next
 - 🌱 I’m currently learning next.js to improve my skills as a frontend developer
 - 💞️ I’m looking to collaborate on projects related to web development
 - 📫 You can reach me through my email: prajeet.thakur20@gmail.com
