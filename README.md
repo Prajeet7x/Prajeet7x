@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prajeet
+- 👋 Hi, I’m Prajeet, a software developer from Kathmandu, Nepal
 - 👀 I’m interested in Web developement, and I specialize in HTML, CSS, JS, TS, React, and Next
 - 🌱 I’m currently learning next.js and Golang
 - 💞️ I’m looking to collaborate on projects related to web development
