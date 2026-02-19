@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prajeet, a MSc Business Analytics Graduate and a former Software Engineer
-- 👀 I’m interested in Web developement, and I specialize in HTML, CSS, JS, TS, React, and Next
+- 👋 Hi, I’m Prajeet, an MSc Business Analytics Graduate and a former Software Engineer
+- 👀 I’m interested in Web development, and I specialize in HTML, CSS, JS, TS, React, and Next
 - 💞️ I’m looking to collaborate on projects related to web development
 - 📫 You can reach me through my email: prajeet.thakur20@gmail.com
